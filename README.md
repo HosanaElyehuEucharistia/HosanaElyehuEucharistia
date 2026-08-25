@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">My name is Hosana Elyehu Eucharistia and I'm a collage student, from Pati, Jawa Tengah</p>
+<p data-importer="text" align="left">My name is Hosana Elyehu Eucharistia and I'm a collage student, from Pati, Jawa Tengah.I am a first-semester student majoring in information technology at the Madiun State Polytechnic, and I am very interested in technological advancements. Right now, I am studying programming languages—especially Python—and am beginning to learn about HTML web development.  </p>
 
 ###
 
